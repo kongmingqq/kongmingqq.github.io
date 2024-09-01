@@ -1,10 +1,10 @@
 [project]
 title = drop7
-version = 1.0
+version = 0.1
 write_log = 0
 compress_archive = 1
 publisher = unnamed
-developer = unnamed
+developer = kongmingqq
 title_as_file_name = drop7
 
 [display]
